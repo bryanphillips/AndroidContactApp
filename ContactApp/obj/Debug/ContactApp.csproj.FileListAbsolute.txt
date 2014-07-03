@@ -1,0 +1,14 @@
+E:\Android\ContactApp\ContactApp\bin\Debug\ContactApp.dll
+E:\Android\ContactApp\ContactApp\bin\Debug\ContactApp.pdb
+E:\Android\ContactApp\ContactApp\bin\Debug\ContactApp.dll.mdb
+E:\Android\ContactApp\ContactApp\obj\Debug\ContactApp.dll
+E:\Android\ContactApp\ContactApp\obj\Debug\ContactApp.pdb
+E:\Android\ContactApp\ContactApp\obj\Debug\res\layout\contactlayout.xml
+E:\Android\ContactApp\ContactApp\obj\Debug\res\layout\main.xml
+E:\Android\ContactApp\ContactApp\obj\Debug\res\values\strings.xml
+E:\Android\ContactApp\ContactApp\obj\Debug\res\drawable\icon.png
+E:\Android\ContactApp\ContactApp\obj\Debug\R.cs.flag
+E:\Android\ContactApp\ContactApp\obj\Debug\uploadflags.txt
+E:\Android\ContactApp\ContactApp\bin\Debug\com.hitcents.contactapp.apk
+E:\Android\ContactApp\ContactApp\bin\Debug\com.hitcents.contactapp-Signed.apk
+E:\Android\ContactApp\ContactApp\obj\Debug\android\bin\com.hitcents.contactapp.apk
