@@ -1,1 +1,1 @@
-E:\Android\ContactApp\ContactApp\bin\Debug\ContactApp.dll
+/Users/appdevelopment/Desktop/Github/AndroidContactApp/ContactApp/bin/Debug/ContactApp.dll

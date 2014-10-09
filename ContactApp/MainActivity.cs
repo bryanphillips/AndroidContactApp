@@ -26,8 +26,6 @@ namespace ContactApp
             // Set our view from the "main" layout resource
             SetContentView(Resource.Layout.Main);
 
-            ImageLoader.CurrentActivity = this;
-
             _list = FindViewById<ListView>(Resource.Id.ViewRecipients_List);
             _adapter = new ContactCursorAdapter(this, new List<Contact>());
             _list.Adapter = _adapter;

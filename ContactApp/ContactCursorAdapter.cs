@@ -17,7 +17,6 @@ namespace ContactApp
         private Context _context;
         private AlphabetIndexer _indexer;
         private string alphabet = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
-        private ImageCache _imageCache;
         private List<ContactApp.MainActivity.Contact> _contacts;
 
         public ContactCursorAdapter(Context context, List<ContactApp.MainActivity.Contact> contacts)
@@ -26,8 +25,6 @@ namespace ContactApp
             _contacts = contacts;
 
             _indexer = new AlphabetIndexer(null, ContactsQuery.SORT_KEY, alphabet);
-
-            _imageCache = new ImageCache();
         }
 
         public override Java.Lang.Object GetItem(int position)

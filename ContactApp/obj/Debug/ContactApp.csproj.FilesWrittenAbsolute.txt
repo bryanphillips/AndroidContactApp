@@ -1,0 +1,14 @@
+/Users/appdevelopment/Desktop/Github/AndroidContactApp/ContactApp/obj/Debug/MonoAndroid,Version=v4.2.AssemblyAttribute.cs
+/Users/appdevelopment/Desktop/Github/AndroidContactApp/ContactApp/obj/Debug/ContactApp.dll
+/Users/appdevelopment/Desktop/Github/AndroidContactApp/ContactApp/bin/Debug/ContactApp.dll.mdb
+/Users/appdevelopment/Desktop/Github/AndroidContactApp/ContactApp/bin/Debug/ContactApp.dll
+/Users/appdevelopment/Desktop/Github/AndroidContactApp/ContactApp/bin/Debug/com.hitcents.contactapp.apk
+/Users/appdevelopment/Desktop/Github/AndroidContactApp/ContactApp/obj/Debug/android/bin/com.hitcents.contactapp.apk
+/Users/appdevelopment/Desktop/Github/AndroidContactApp/ContactApp/obj/Debug/res/layout/contactlayout.xml
+/Users/appdevelopment/Desktop/Github/AndroidContactApp/ContactApp/obj/Debug/res/layout/main.xml
+/Users/appdevelopment/Desktop/Github/AndroidContactApp/ContactApp/obj/Debug/res/values/strings.xml
+/Users/appdevelopment/Desktop/Github/AndroidContactApp/ContactApp/obj/Debug/res/drawable/icon.png
+/Users/appdevelopment/Desktop/Github/AndroidContactApp/ContactApp/obj/Debug/R.cs.flag
+/Users/appdevelopment/Desktop/Github/AndroidContactApp/ContactApp/bin/Debug/com.hitcents.contactapp-Signed.apk
+/Users/appdevelopment/Desktop/Github/AndroidContactApp/ContactApp/obj/Debug/uploadflags.txt
+/Users/appdevelopment/Desktop/Github/AndroidContactApp/ContactApp/obj/Debug/ContactApp.dll.mdb
