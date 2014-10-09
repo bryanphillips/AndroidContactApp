@@ -15,7 +15,6 @@ namespace ContactApp
     [Activity(Label = "ContactApp", MainLauncher = true, Icon = "@drawable/icon")]
     public class MainActivity : Activity, LoaderManager.ILoaderCallbacks
     {
-        int count = 1;
         private ListView _list;
         private ContactCursorAdapter _adapter;
 

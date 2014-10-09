@@ -3,6 +3,5 @@ AndroidContactApp
 
 Android Contact Test App
 
-Basic sample app created to test Xamarin Mobile and find better ways to import contacts via android.
+Basic sample app created to test find better ways to import contacts via android and display them.  This is using similar practices that google uses.  I created this as an alternate to Xamarin Mobile.
 
-App will also create random contacts on device for testing scrolling through.
